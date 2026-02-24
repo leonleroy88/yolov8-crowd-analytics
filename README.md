@@ -5,4 +5,4 @@ Starting with bounding boxes and pixel-level segmentation, then moving to crowd 
 Built with Python 3.10, YOLOv8, OpenCV and NumPy.
 
 ## Demo
-![demo](demo.png)
+![demo](analyse_de_foule.png)
